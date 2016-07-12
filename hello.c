@@ -7,5 +7,6 @@ int main(void)
 	printf("2\n");
 	printf("수정\n");
 	printf("*\n");
+	printf("v2\n");
 	return 0;
 }
